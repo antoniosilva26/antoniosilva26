@@ -1,5 +1,10 @@
 ## Iae pessoal!
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 ![hippo](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ3ViZXNla3BreWIxandsenJoamoxN3h3MzR5bHpsNXNtbmUwMmxpYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eeYbfcTxoxGlG/source.gif)
 
 <!--
